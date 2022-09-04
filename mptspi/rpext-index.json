@@ -1,0 +1,34 @@
+{
+  "id": "pocopico.mptspi",
+  "url": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/rpext-index.json",
+  "info": {
+    "name": "mptspi",
+    "description": "Adds Fusion MPT SPI Host driver Support",
+    "author_url": "https://github.com/pocopico",
+    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/mptspi",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "ds918p_25556": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds918p_25556.json",
+    "ds918p_25556u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds918p_25556.json",
+    "ds918p_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds918p_42218.json",
+    "ds918p_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds918p_42218.json",
+    "ds918p_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds918p_42218.json",
+    "ds918p_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds918p_42218.json",
+    "ds918p_42951": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds918p_42218.json",
+    "ds920p_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds920p_42218.json",
+    "ds920p_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds920p_42218.json",
+    "ds920p_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds920p_42218.json",
+    "ds1621p_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds1621p_42218.json",
+    "ds1621p_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds1621p_42218.json",
+    "ds1621p_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds1621p_42218.json",
+    "ds1621p_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds1621p_42218.json",
+    "ds1621p_42951": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds1621p_42218.json",
+    "ds3622xsp_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42951": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/mptspi/releases/ds3622xsp_42218.json"
+  }
+}
