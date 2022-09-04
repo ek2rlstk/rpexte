@@ -1,0 +1,35 @@
+{
+  "id": "pocopico.redpill",
+  "url": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/rpext-index.json",
+  "info": {
+    "name": "redpill",
+    "description": "Adds  Support",
+    "author_url": "https://github.com/pocopico",
+    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/redpill",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "ds3622xsp_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42951": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds3622xsp_42218.json",
+    "ds1621p_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds1621p_42218.json",
+    "ds1621p_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds1621p_42218.json",
+    "ds1621p_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds1621p_42218.json",
+    "ds1621p_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds1621p_42218.json",
+    "ds1621p_42951": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds1621p_42218.json",
+    "ds918p_25556": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds918p_25556.json",
+    "ds918p_25556u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds918p_25556.json",
+    "ds918p_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds918p_41890.json",
+    "ds918p_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds918p_42218.json",
+    "ds918p_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds918p_42218.json",
+    "ds918p_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds918p_42218.json",
+    "ds918p_42951": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds918p_42218.json",
+    "ds920p_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds920p_42218.json",
+    "ds920p_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds920p_42218.json",
+    "ds920p_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds920p_42218.json",
+    "ds920p_42951": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill/releases/ds920p_42218.json"
+  }
+}
