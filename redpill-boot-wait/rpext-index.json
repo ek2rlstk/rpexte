@@ -8,27 +8,31 @@
     "help_url": "https://github.com/pocopico/rp-ext/redpill-boot-wait"
   },
   "releases": {
-    "ds918p_25556": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal_v6.json",
-    "ds918p_25556u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal_v6.json",
+    "ds918p_25556": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
+    "ds918p_25556u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds918p_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds918p_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds918p_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds918p_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds918p_42962": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
+    "ds918p_42962u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds920p_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds920p_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds920p_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds920p_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds920p_42962": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
+    "ds920p_42962u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds1621p_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds1621p_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds1621p_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds1621p_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds1621p_42962": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
+    "ds1621p_42962u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds3622xsp_42218": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds3622xsp_42218u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds3622xsp_42661": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
     "ds3622xsp_42661u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
-    "ds3622xsp_42962": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json"
+    "ds3622xsp_42962": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json",
+    "ds3622xsp_42962u": "https://raw.githubusercontent.com/ek2rlstk/rpexte/master/redpill-boot-wait/recipes/universal.json"
   }
 }
